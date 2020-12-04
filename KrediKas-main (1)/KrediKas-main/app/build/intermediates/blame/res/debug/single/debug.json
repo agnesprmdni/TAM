@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\font_helveticabold.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\font\\helveticabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_shape.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable\\bg_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hutang.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\layout\\fragment_hutang.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\font_helvetica.ttf.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\font\\helvetica.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_arus_kas.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\layout\\fragment_arus_kas.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\AndroidStudioProjects\\KrediKas-main (1)\\KrediKas-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

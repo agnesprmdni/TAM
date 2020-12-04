@@ -20,7 +20,7 @@
         android:id="@+id/tv_message"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/woy_main_kesini_jadi_ngga_sekarang_yak"
+        android:text="Ini SMS Listener Appp"
         android:textSize="18sp"
         android:layout_marginBottom="@dimen/activity_vertical_margin"/>
 
